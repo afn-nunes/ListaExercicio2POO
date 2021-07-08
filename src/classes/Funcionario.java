@@ -33,6 +33,7 @@ public class Funcionario {
         this.salario = salario;
     }
 
+    //Esse método construtor resolve o que está sendo solicitado na questão 2
     public Funcionario(String matricula, String nome, Double salario) {
         this.matricula = matricula;
         this.nome = nome;
